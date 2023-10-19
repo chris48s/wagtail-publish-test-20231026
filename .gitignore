@@ -1,0 +1,15 @@
+__pycache__/
+*.py[co]
+/build
+/dist
+/wagtail_publish_test_20231026.egg-info
+/.coverage
+/htmlcov
+/.tox
+/venv
+/.vscode
+/site
+/test_wagtail_publish_test_20231026.db
+/node_modules
+/test-static
+/test-media
